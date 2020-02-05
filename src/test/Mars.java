@@ -6,7 +6,7 @@ public class Mars {
 		System.out.println("Hello World!");
 <<<<<<< Updated upstream
 		System.out.println("Try to know");
-		
+		//some comments
 =======
 		System.out.println("Try to understand");
 >>>>>>> Stashed changes
